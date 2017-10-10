@@ -1,11 +1,3 @@
-# Hello World!!
-
-This is my attempt to create a protfolio on Github
-
-My user page is http://github.com/flaviamedici
-
-My pages repo can be found at http://github.com/flaviamedici/flaviamedici.github.io
-
 flaviamedici.github.io
 ====================
 
