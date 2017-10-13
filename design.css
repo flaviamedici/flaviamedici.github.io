@@ -1,1 +1,52 @@
+#myPage
+{
+  background-color: Gainsboro;
+}
+.list
+{
+  list-style-type:none;
+}
+#jumbo
+{
+  background-color: Grey;
+   margin-top: 100px;
+}
 
+.bg-4 { 
+    background-color: #2f2f2f;
+    color: #ffffff;
+}
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+.img-circle
+{
+  opacity: 0.8;
+}
